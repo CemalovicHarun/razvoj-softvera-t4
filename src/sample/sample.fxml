@@ -17,7 +17,7 @@
       <RowConstraints />
    </rowConstraints>
    <children>
-      <TabPane prefHeight="370.0" prefWidth="408.0" tabClosingPolicy="UNAVAILABLE">
+      <TabPane fx controler prefHeight="370.0" prefWidth="408.0" tabClosingPolicy="UNAVAILABLE">
         <tabs>
           <Tab text="Artikli">
             <content>
@@ -29,7 +29,7 @@
                      </children></AnchorPane>
             </content>
           </Tab>
-          <Tab text="Račun">
+          <Tab text="Racun">
             <content>
               <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
             </content>
